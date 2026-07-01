@@ -8,13 +8,13 @@
 
 | Keterangan | Isi |
 |---|---|
-| Nama kelompok | **Isi sebelum dikumpulkan** |
-| Anggota 1 | **Isi nama dan NIM** |
-| Anggota 2 | **Isi nama dan NIM, hapus jika individu** |
+| Nama kelompok | Klasifikasi Penyakit Daun Kentang |
+| Anggota 1 | Moch Rasky Putra Softiawan/2406083 |
+| Anggota 2 | Ficky Malvialudin/2406082 |
 | Mata kuliah | Kecerdasan Buatan |
-| Dosen pengampu | **Isi nama dosen** |
-| Program studi | **Isi program studi** |
-| Tahun akademik | **Isi tahun akademik** |
+| Dosen pengampu | Leni Fitriani S.kom M.kom |
+| Program studi | Teknik Informatika |
+| Tahun akademik | 2024 |
 
 ---
 
@@ -25,10 +25,8 @@ Klasifikasi Penyakit Daun Kentang Berdasarkan Citra Digital**
 
 ## 1.1 Nama Kelompok
 
-Proyek dikerjakan maksimal oleh dua orang:
-
-- Anggota 1: **Isi nama dan NIM**
-- Anggota 2: **Isi nama dan NIM atau hapus jika individu**
+- Anggota 1: Moch Rasky Putra Softiawan/2406083
+- Anggota 2: Ficky Malvialudin/2406082
 
 ## 1.2 Domain Proyek
 
