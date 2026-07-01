@@ -1,0 +1,61 @@
+{
+  "cnn_mobilenetv2": {
+    "test_samples": 433,
+    "accuracy": 0.9885,
+    "weighted_precision": 0.9886,
+    "weighted_recall": 0.9885,
+    "weighted_f1": 0.9885,
+    "macro_precision": 0.9918,
+    "macro_recall": 0.9917,
+    "macro_f1": 0.9917,
+    "confusion_matrix": [
+      [
+        197,
+        4,
+        0
+      ],
+      [
+        1,
+        200,
+        0
+      ],
+      [
+        0,
+        0,
+        31
+      ]
+    ]
+  },
+  "random_forest": {
+    "train_samples": 1506,
+    "validation_samples": 215,
+    "test_samples": 431,
+    "training_accuracy": 1.0,
+    "validation_accuracy": 0.95814,
+    "oob_score": 0.958167,
+    "test_accuracy": 0.955916,
+    "weighted_precision": 0.9575,
+    "weighted_recall": 0.9559,
+    "weighted_f1": 0.955332,
+    "macro_precision": 0.9695,
+    "macro_recall": 0.9047,
+    "macro_f1": 0.932065,
+    "confusion_matrix": [
+      [
+        192,
+        8,
+        0
+      ],
+      [
+        4,
+        196,
+        0
+      ],
+      [
+        0,
+        7,
+        24
+      ]
+    ]
+  }
+}
