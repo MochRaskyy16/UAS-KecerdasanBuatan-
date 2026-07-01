@@ -158,11 +158,3 @@ eksperimen yang sepenuhnya setara sebaiknya memakai daftar file split yang sama.
 ## Repository Tujuan
 
 <https://github.com/MochRaskyy16/UAS-KecerdasanBuatan->
-
-## Checklist Sebelum Pengumpulan
-
-- [ ] Isi identitas kelompok.
-- [ ] Pastikan repository GitHub berstatus public.
-- [ ] Pastikan link Colab dapat dibuka tanpa meminta izin.
-- [ ] Pastikan `README.md`, `Laporan_uas.md`, dan `uas_model.ipynb` berada di root.
-- [ ] Tempel link repository GitHub pada LMS.
