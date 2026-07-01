@@ -13,11 +13,11 @@ Proyek membandingkan dua pendekatan klasifikasi citra daun kentang:
 
 | Keterangan | Isi |
 |---|---|
-| Nama kelompok | **Isi sebelum dikumpulkan** |
-| Anggota 1 | **Isi nama dan NIM** |
-| Anggota 2 | **Isi nama dan NIM, hapus jika individu** |
-| Dosen pengampu | **Isi nama dosen** |
-| Program studi | **Isi program studi** |
+| Nama kelompok | Klasifikasi Penyakit Daun Kentang |
+| Anggota 1 |Moch Rasky Putra Softiawan/2406083 |
+| Anggota 2 | Ficky Malvialudin/2406082 |
+| Dosen pengampu | Leni Fitria ST.M.kom |
+| Program studi | Teknik Informatika|
 
 ## Tautan Google Colab
 
