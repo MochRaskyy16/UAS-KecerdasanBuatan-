@@ -24,7 +24,5 @@ PlantVillage/
 └── Potato___healthy/
 ```
 
-Upload file ZIP dataset pada saat notebook meminta file.
 
-Dataset mentah tidak disertakan karena ukurannya besar. Gunakan Kaggle sebagai
-sumber atau Git LFS apabila dosen mewajibkan file mentah berada di repository.
+Dataset mentah tidak disertakan karena ukurannya besar.
