@@ -36,9 +36,7 @@ UAS-KecerdasanBuatan-/
 ├── uas_model_CNN.ipynb
 ├── uas_model_RF.ipynb
 ├── requirements.txt
-├── .gitignore
 ├── ANALISIS_VALIDASI.md
-├── PANDUAN_UPLOAD_GITHUB.md
 ├── assets/
 │   ├── cnn_confusion_matrix.png
 │   ├── rf_confusion_matrix.png
