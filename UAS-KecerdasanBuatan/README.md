@@ -22,7 +22,7 @@ Proyek membandingkan dua pendekatan klasifikasi citra daun kentang:
 ## Tautan Google Colab
 
 - [CNN MobileNetV2](https://colab.research.google.com/drive/11NVcHo8LhHZAdXPMuBQSmqs8_bRaxUnV?usp=sharing)
-- [Random Forest](https://colab.research.google.com/drive/1ZQOw-DF_552LxXv4yXyx-c1y0RrcJO2U?usp=sharing)
+- [Random Forest](https://colab.research.google.com/drive/11NVcHo8LhHZAdXPMuBQSmqs8_bRaxUnV?usp=sharing)
 
 Pastikan akses kedua notebook diatur menjadi **Anyone with the link — Viewer**.
 
